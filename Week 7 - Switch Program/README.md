@@ -11,7 +11,9 @@ This program added a switch function that asks the user which operation they wou
 ![Image6](Images/switch6.JPG)
 
 * Output without Error Checking
+
 ![Image7](Images/switchcalc1.png)
+
 *Output with Error Checking
 ![Image8](Images/switchcalc2.png)
 ![Image9](Images/switchcalc3.png)
