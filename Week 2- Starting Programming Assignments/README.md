@@ -11,7 +11,7 @@ For this week, I completed two programming projects in C++. The first project wa
 
 # Simple Calculator
 
-*This shows the code to create the simple calculator.
+* This shows the code to create the simple calculator.
 ![Image3](Images/calcprogram1.JPG)
 ![Image4](Images/calcprogram2.JPG)
 * This is the output after successfully running the code and inputting the numbers 17 and 5.
