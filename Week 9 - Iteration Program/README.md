@@ -21,15 +21,25 @@ For the calculator program, I modified the switch function to improve it and mak
 * Output after running the code, that shows Player 1 and Player 2 playing a complete game of Tic-Tac-Toe. This also shows error checking throughout.
 
 ![Image10](Images/board1.png)
+
 ![Image11](Images/board2.png)
+
 ![Image12](Images/board3.png)
+
 ![Image13](Images/board4.png)
+
 ![Image14](Images/board5.png)
+
 ![Image15](Images/board6.png)
+
 ![Image16](Images/board7.png)
+
 ![Image17](Images/board8.png)
+
 ![Image18](Images/board9.png)
+
 ![Image19](Images/board9.1.png)
+
 ![Image20](Images/board11.png)
 
 # Calculater Iteration Code
