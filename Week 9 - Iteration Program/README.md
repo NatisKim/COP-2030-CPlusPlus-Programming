@@ -33,20 +33,19 @@ For the calculator program, I modified the switch function to improve it and mak
 ![Image20](Images/board11.png)
 
 # Calculater Iteration Code
-
-[Calc1](Images/calciterate1.JPG)
-[Calc2](Images/calciterate2.JPG)
-[Calc3](Images/calciterate3.JPG)
-[Calc4](Images/calciterate4.JPG)
-[Calc5](Images/calciterate5.JPG)
-[Calc6](Images/calciterate6.JPG)
-[Calc7](Images/calciterate7.JPG)
+![Calc1](Images/calciterate1.JPG)
+![Calc2](Images/calciterate2.JPG)
+![Calc3](Images/calciterate3.JPG)
+![Calc4](Images/calciterate4.JPG)
+![Calc5](Images/calciterate5.JPG)
+![Calc6](Images/calciterate6.JPG)
+![Calc7](Images/calciterate7.JPG)
 
 * Output after running the code successfully.
 
-[Loop1](Images/loopcalc.png)
-[Loop2](Images/loopcalc2.png)
-[Loop3](Images/loopcalc3.png)
-[Loop4](Images/loopcalc4.png)
-[Loop5](Images/loopcalc5.png)
-[Loop6](Images/loopcalc6.png)
+![Loop1](Images/loopcalc.png)
+![Loop2](Images/loopcalc2.png)
+![Loop3](Images/loopcalc3.png)
+![Loop4](Images/loopcalc4.png)
+![Loop5](Images/loopcalc5.png)
+![Loop6](Images/loopcalc6.png)
