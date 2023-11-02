@@ -14,14 +14,24 @@ For this programming assignment, I modified the tic-tac-toe board from Week 9. I
 
 * Running the Code
 ![Image1](Images/board1.png)
+
 ![Image2](Images/board2.png)
+
 ![Image3](Images/board3.png)
+
 ![Image4](Images/board4.png)
+
 ![Image5](Images/board5.png)
+
 ![Image6](Images/board6.png)
+
 ![Image7](Images/board7.png)
+
 ![Image8](Images/board8.png)
+
 ![Image9](Images/board9.png)
+
 ![Image10](Images/board10.png)
+
 ![Image11](Images/board11.png)
 
