@@ -13,6 +13,7 @@ For this programming assignment, I modified the tic-tac-toe board from Week 9. I
 ![Image8](Images/game8.JPG)
 
 * Running the Code
+
 ![Image1](Images/board1.png)
 
 ![Image2](Images/board2.png)
